@@ -20,3 +20,8 @@ Despite being specialized in frontend web development, I have a broad interest i
 ##### I'm also interested in
 ![Raspberry Pi](https://img.shields.io/badge/Rasberry%20Pi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+<!--
+https://simpleicons.org
+!-->

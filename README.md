@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Simon and I'm a professional software engineer based in Berlin, Germany. `similicious` is what I go by online.
+My name is Simon and I'm a professional software engineer based in Berlin, Germany. `similicious` is what I go by online. I like building awesome software and sharing my knowledge.
 
 Despite being specialized in frontend web development, I have a broad interest in all things computers. 
 
